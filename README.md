@@ -1,10 +1,10 @@
-# Technical Task for a position of DWH Engineer @ Spark Networks <br> On-side Coding Part
+# Technical Task for a position of DWH Engineer @ Spark Networks <br> Onsite Coding Part
 
 Dear candidate
 
 We are very happy to meet you in our Berlin HQ!
 
-As the technical part of the on-side set of interviews, we would like you to extend the data pipeline (see the diagram below) you started building at home while working on our technical task.
+As the technical part of the onsite set of interviews, we would like you to extend the data pipeline (see the diagram below) you started building at home while working on our technical task.
 
 ## Data pipeline diagram
 
