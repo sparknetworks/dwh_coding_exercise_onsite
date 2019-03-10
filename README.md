@@ -34,7 +34,7 @@ service_processor_raw_data
   service_output_processed_data]
 ```
 
-The above diagram illustrates a data pipeline which can be built to load and process the data from <a href="www.immobilienscout24.de" target="_blank">immobilienscout24.de</a>. You developed the service <strong>service_loader_raw_data</strong> to load raw data batches from <strong>storage_incoming_raw_data</strong> into <strong>storage_hot</strong>. Today's mini-project is, to extend the pipeline and build the stateless service <strong>service_fetcher_batcher_pusher_raw_data</strong> to fetch raw data from the source <strong>io_source_raw_data</strong> into <strong>storage_incoming_raw_data</strong>.
+The above diagram illustrates a data pipeline which can be built to load and process the data from <a href="https://www.immobilienscout24.de" target="_blank">immobilienscout24.de</a>. You developed the service <strong>service_loader_raw_data</strong> to load raw data batches from <strong>storage_incoming_raw_data</strong> into <strong>storage_hot</strong>. Today's mini-project is, to extend the pipeline and build the stateless service <strong>service_fetcher_batcher_pusher_raw_data</strong> to fetch raw data from the source <strong>io_source_raw_data</strong> into <strong>storage_incoming_raw_data</strong>.
 
 ## API end-points
 
